@@ -35,7 +35,7 @@ I am a Junior Front End Developer. I like to study and learn something new. My h
 + *HTML/CSS Basics/CSS Flex*
 + *VS Code and Git Basics*
 + *CV and Markdown*
-+ *Figma(for webdevelopment)*
++ *Figma (for webdevelopment)*
 + *JavaScript*
 
 ## Courses:
