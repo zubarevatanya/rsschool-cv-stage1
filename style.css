@@ -71,7 +71,10 @@ body{
     text-decoration: underline;
 }
 .code{
-    margin: 0;
+  display: flex;
+  justify-content: flex-start;
     font-size: 14px;
     font-weight: lighter;
+    text-align: left;
+    
 }
