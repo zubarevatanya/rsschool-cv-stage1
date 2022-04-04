@@ -33,11 +33,17 @@ I am a Junior Front End Developer. I like to study and learn something new. My h
 ---
 ## Skills:
 + *HTML/CSS Basics/CSS Flex*
-+ *VS Code and Git Basics*
-+ *CV and Markdown*
++ *VS Code/Git Basics/Markdown*
++ *Codewars*
 + *Figma (for webdevelopment)*
 + *JavaScript*
 
 ## Courses:
 + *JS / Front-end. Stage 0*
 + *JavaScript/Front-end 2022Q1 (in progress)*
+
+## Projects:
++ *Portfolio*
++ *Memory-card-game*
++ *Image-galery*
++ *Eco-sounds*
