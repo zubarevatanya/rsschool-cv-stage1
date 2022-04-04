@@ -3,7 +3,7 @@
 
 <head>
     <meta charset='utf-8'>
-    <title>CV#3. CV.</title>
+    <title>CV#2. CV.</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -32,10 +32,10 @@
                 <section class="skills section">
                     <h2>Skills</h2>
                     <ul>
-                        <li>HTML/CSS Basics</li>
-                        <li>VS Code and Git Basics</li>
-                        <li>Markdown</li>
-                        <li>CSS Flex</li>
+                        <li>HTML/CSS Basics/CSS Flex</li>
+                        <li>VS Code/Git Basics/Markdown</li>
+                        <li>Figma (for webdevelopment)</li>
+                        <li>JavaScript</li>
                     </ul>
                 </section>
             </div>
@@ -63,26 +63,18 @@
                 <section class="courses section">
                     <h2>Courses</h2>
                     <p>JS / Front-end. Stage 0</p>
+                    <p>JavaScript/Front-end 2022Q1 (in progress)</p>
                 </section>
 
                 <section class="code-example section">
                     <h2>Code example</h2>                
-                    <pre class="code"><code>.container {
-    display: flex;
-    padding: 30px;
-    flex-wrap: wrap;
-}
-.left-column{
-    width: 40%;
-}
-.right-column{
-    width: 60%;
-}
-@media (max-width: 850px) {
-    .left-column, .right-column{
-    width: 100%;
-    }
-}</code></pre>
+                    <pre class="container code"><code>                         
+ function isPrime(num) {
+    for(let i = 2, s = Math.sqrt(num); i <= s; i++)        
+    if(num % i === 0) return false;    
+    return num > 1;
+ }
+</code></pre>
                 </section>
             </div>
         </main>
